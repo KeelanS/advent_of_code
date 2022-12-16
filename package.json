@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "mathjs": "^11.5.0"
+    "mathjs": "^11.5.0",
+    "robust-point-in-polygon": "^1.0.3"
   }
 }
